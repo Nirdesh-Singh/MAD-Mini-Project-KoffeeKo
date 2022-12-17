@@ -10,6 +10,11 @@ Slot - A1 + TA1
 2. ANURAG SINGH 20BCE7072
 3. CHINNAKANU SAI JANAKIRAM 20BCE7016
 
+# APK File
+
+https://drive.google.com/file/d/1eF22I8hL0jOGiZs1H3pDfAlh-DpnNr7z/view?usp=sharing
+
+
 # Abstract
 
 Every employee likes to begin their day with a cup of coffee as per their preference. The usual procedure is for the cafeteria staff to go around the table and take each person's order on paper before preparing the coffee. This process is inefficient and unsustainable. The goal of our project is to provide a platform, or a mobile application for office, cafeteria, and administrative staff to modernize the process of taking order.
