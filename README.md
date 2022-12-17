@@ -12,6 +12,8 @@ Slot - A1 + TA1
 
 # APK File
 
+Please  download the app from the below link :
+
 https://drive.google.com/file/d/1eF22I8hL0jOGiZs1H3pDfAlh-DpnNr7z/view?usp=sharing
 
 
